@@ -110,7 +110,8 @@ Run all cells in `preprocessing_modelling.ipynb` (or refer to the `preprocessing
 
 ## 👥 Team
 
+- **Kunal Ahirrao**
 - **Nithish Kumar Senthil Kumar**  
 - **Subhiksha Murugesan**  
 - **Rishi Manohar Manoharan**  
-- **Kunal Ahirrao**
+  
